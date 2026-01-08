@@ -1,58 +1,71 @@
-# Apartment Management System
+# System Analysis Portfolio
 
-## Project Overview
+This repository contains comprehensive business analysis and system design documentation for two distinct projects, demonstrating expertise in business requirements analysis, process workflow design, and system validation methodologies.
 
-This project delivers a comprehensive business analysis and system design for an **Apartment Management System**, emphasizing business requirements, operational workflows, and validation strategies. The work encompasses stakeholder analysis, business process documentation, system architecture design, and quality assurance planning with a focus on user acceptance testing and system validation.
+---
 
-The analysis bridges business needs with technical implementation through structured methodologies including use case modeling, activity diagrams, sequence diagrams, and validation frameworks.
+## Project 1: Portfolio Management Web System
 
-## System Documentation
+### Project Overview
+
+The **Portfolio Management Web System** project delivers a comprehensive business analysis and system design for a web-based portfolio management platform, emphasizing business workflows, real-time monitoring capabilities, and operational efficiency. The analysis covers stakeholder requirements, business process documentation, system architecture design, and quality assurance planning with focus on user acceptance testing and system validation.
+
+### System Documentation
 
 Complete business and system analysis documentation:
 
-**[Apartment_Management_System_Business_and_System_Analysis.pdf](./Apartment_Management_System_Business_and_System_Analysis.pdf)**
+**[Portfolio_Management_System_Business_and_System_Analysis.pdf](./Portfolio_Management_System_Business_and_System_Analysis.pdf)**
 
-This document contains system requirements, design specifications, stakeholder analysis, process workflows, and validation strategies.
+This document contains system requirements, design specifications, stakeholder analysis, business workflows, real-time monitoring architecture, and validation strategies.
 
-## Key System Capabilities
+### Key Focus Areas
 
-The system addresses core business operations for residential property management:
+- **Business Workflows**: End-to-end process mapping for portfolio operations, transaction processing, and reporting workflows
+- **Real-Time Monitoring**: System design for live data tracking, performance monitoring, and alert mechanisms
+- **Validation & System Quality**: UAT planning, test scenario development, and quality assurance frameworks
+- **Stakeholder Management**: Requirements gathering, user needs analysis, and communication workflows
+- **System Architecture**: Scalable web architecture ensuring performance, reliability, and integration capabilities
 
-- **Tenant & Lease Operations**: Registration workflows, lease processing, renewals, and tenant lifecycle management
-- **Property & Unit Management**: Inventory tracking, availability management, and property information systems
-- **Maintenance Workflows**: Service request initiation, technician assignment, progress tracking, and resolution management
-- **Financial Management**: Rent collection processes, payment tracking, and financial reporting
-- **Stakeholder Communication**: Automated notifications and communication channels for property managers, tenants, and maintenance teams
+---
 
-Each capability is defined through business requirements, process workflows, and system interactions to ensure operational alignment.
+## Project 2: Apartment Management System
 
-## System Design & Validation Focus
+### Project Overview
 
-The project emphasizes validation-driven design and quality assurance:
+The **Apartment Management System** project presents a comprehensive business analysis and system design for residential property management operations, focusing on business processes, back-office workflows, and operational efficiency. The work encompasses stakeholder analysis, business process documentation, system architecture design, and quality assurance planning with emphasis on user acceptance testing and system validation.
 
-- **Business Requirements Analysis**: Stakeholder needs, functional requirements, and business rules documentation
-- **Process Workflow Design**: Activity diagrams mapping business processes with decision points and exception handling
-- **System Interaction Modeling**: Sequence diagrams validating interactions between actors and system components
-- **Architecture Design**: System structure ensuring scalability, maintainability, and integration readiness
-- **Validation & UAT Strategy**: User Acceptance Testing planning, test scenarios, and quality assurance frameworks
-- **System Quality Assurance**: Test case development and validation methodologies
+### System Documentation
 
-The design approach ensures technical implementation directly supports business operations while maintaining system reliability and quality standards.
+Complete business and system analysis documentation:
+
+**[Apartment_Management_System.pdf](./Apartment_Management_System.pdf)**
+
+This document contains system requirements, design specifications, stakeholder analysis, process workflows, back-office operations, and validation strategies.
+
+### Key Focus Areas
+
+- **Business Processes**: Tenant lifecycle management, lease processing, maintenance workflows, and financial operations
+- **Back-Office Workflows**: Administrative processes, reporting systems, and operational management workflows
+- **Validation & System Quality**: UAT strategy design, test case development, and quality assurance methodologies
+- **Stakeholder Operations**: Property managers, tenants, maintenance teams, and administrative personnel workflows
+- **System Architecture**: Architecture design ensuring scalability, maintainability, and integration readiness
+
+---
 
 ## Author Role & Responsibilities
 
 **Lead Developer | System Analyst | Business Analyst**
 
-Primary responsibilities:
+Across both projects, primary responsibilities included:
 
-- **Business Requirements**: Stakeholder engagement, requirements gathering, and business process documentation
-- **System Design**: Architecture design, data modeling, and integration patterns aligned with business objectives
-- **Process Analysis**: Use case, activity, and sequence diagram development to model system behavior
+- **Business Requirements Analysis**: Stakeholder engagement, requirements gathering, and business process documentation
+- **System Design & Architecture**: Architecture design, data modeling, and integration patterns aligned with business objectives
+- **Process Analysis & Modeling**: Use case, activity, and sequence diagram development to model system behavior and workflows
 - **Validation & Testing**: UAT strategy design, test scenario development, and quality assurance planning
-- **Documentation**: Comprehensive business and system analysis documentation
+- **Documentation**: Comprehensive business and system analysis documentation for both projects
 
-This combined developer-analyst role ensured effective translation of business requirements into validated system specifications.
+This combined developer-analyst role ensured effective translation of business requirements into validated system specifications across diverse business domains.
 
 ---
 
-*This project demonstrates expertise in business analysis, system design, process modeling, and validation methodologies applied to property management operations.*
+*This portfolio demonstrates expertise in business analysis, system design, process modeling, and validation methodologies applied to web-based systems and property management operations.*
